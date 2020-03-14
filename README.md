@@ -1,3 +1,3 @@
-# url-categorization-k9
+# URL/Domain Categorization
 
-K9 URL Based Categorization
+K9 Api URL Based Categorization
